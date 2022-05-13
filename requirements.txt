@@ -15,8 +15,6 @@ transformers~=4.11.3
 
 ##### TensorFlow-related packages
 
-# If you have a TF-compatible GPU and you want to enable GPU support, then
-# replace tensorflow-serving-api with tensorflow-serving-api-gpu.
 # Your GPU must have CUDA Compute Capability 3.5 or higher support, and
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
